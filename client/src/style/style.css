@@ -1,0 +1,60 @@
+.rootBg{
+    height: 100vh;
+    background: url("../assets/images/bg.jpg");
+    background-size: cover;
+}
+
+.intro {
+    height: 500px;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+
+.fixed-nav{
+    position: sticky;
+    top: 0;
+}
+  
+.title {
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.subtitle{
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.actionBg{
+    height: auto;
+    background: url("../assets/images/bg2.jpg");
+    background-size: cover;
+}
+
+.horrorBg{
+    height: auto;
+    background: url("../assets/images/bg3.jpg");
+    background-size: cover;
+}
+
+.movieImage {
+    height: auto;
+    background-color: white;
+    margin: 5px;
+    padding: 5px;
+}
+  
+.images {
+    height: 500px;
+  }
+
+.text-yellow{
+    text-decoration-color: darkorange;
+}

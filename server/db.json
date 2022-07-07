@@ -1,0 +1,102 @@
+{
+  "horror": [
+    {
+      "id": 1,
+      "title": "Midsommar",
+      "genre": "Horror/Thriller",
+      "duration": "2h 18m",
+      "description": "Dani's psychological trauma affects her relationship with Christian, her lover. However, when they visit their friend's ancestral commune in an effort to mend things, it changes their lives forever.",
+      "img": "https://m.media-amazon.com/images/M/MV5BMzQxNzQzOTQwM15BMl5BanBnXkFtZTgwMDQ2NTcwODM@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Insidious: The Last Key",
+      "genre": "Horror/Thriller",
+      "duration": "1h 43m",
+      "description": "Elise Rainier, a parapsychologist, is haunted by her past as she is forced to return to her childhood home. She and her family have to fight the evil that is terrorising and possessing people.",
+      "img": "https://m.media-amazon.com/images/M/MV5BMzNjNzQ0OTItZmNhYy00OTM0LTkyMzMtMDA5MGU3NWVhMDM0XkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "The Nun",
+      "genre": "Horror/Thriller",
+      "duration": "1h 36m",
+      "description": "A priest and a novice arrive in Romania to investigate the death of a young nun. However, things take an ugly turn after they encounter a supernatural force.",
+      "img": "https://m.media-amazon.com/images/M/MV5BMjM3NzQ5NDcxOF5BMl5BanBnXkFtZTgwNzM4MTQ5NTM@._V1_.jpg"
+    },
+    {
+      "id": 4,
+      "title": "The Medium",
+      "genre": "Horror/Mockumentary",
+      "duration": "2h 11m",
+      "description": "In the Isan region of Thailand, a shaman realizes that his nephew has been possessed. However, the goddess that appears to have taken possession turns out not be as benevolent as she first appears.",
+      "img": "https://cdn0-production-images-kly.akamaized.net/GQmgbli25y9TwhbpAOaTYxh39VM=/640x853/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/3604199/original/052211500_1634361315-MV5BMjVlYzJhMGQtZjMzNC00ZDc1LWFjZDMtZDk1ZTQxZTdhNDZjXkEyXkFqcGdeQXVyNzEyMTA5MTU_._V1_FMjpg_UY720_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "The Conjuring: The Devil Made Me Do It",
+      "genre": "Horror/Thriller",
+      "duration": "1h 52m",
+      "description": "Arne Cheyenne Johnson stabs and murders his landlord, claiming to be under demonic possession. Ed and Lorraine Warren investigate the case and try to prove his innocence.",
+      "img": "https://m.media-amazon.com/images/M/MV5BZDc2ZDIyZjktMmY5ZS00YjNmLWE5NGItZjU4NzhlMTAyZWMzXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Final Destination",
+      "genre": "Horror/Thriller",
+      "duration": "1h 38m",
+      "description": "Final Destination is an American horror franchise consisting of five films, two comic books, and nine novels. It is based on an unproduced spec script by Jeffrey Reddick, originally written for The X-Files television series, and was distributed by New Line Cinema.",
+      "img": "https://m.media-amazon.com/images/M/MV5BZTI0NGM2OGYtNzVmMi00NGQ2LTk2MDAtN2RmYjIzMGRkZGYxXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg"
+    }
+  ],
+  "action": [
+    {
+      "id": 1,
+      "title": "Thor: Ragnarok",
+      "genre": "Action/Sci-fi",
+      "duration": "2h 10m",
+      "description": "Deprived of his mighty hammer Mjolnir, Thor must escape the other side of the universe to save his home, Asgard, from Hela, the goddess of death.",
+      "img": "https://m.media-amazon.com/images/M/MV5BMjMyNDkzMzI1OF5BMl5BanBnXkFtZTgwODcxODg5MjI@._V1_.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Avengers: Infinity War",
+      "genre": "Action/Sci-fi",
+      "duration": "2h 29m",
+      "description": "The Avengers must stop Thanos, an intergalactic warlord, from getting his hands on all the infinity stones. However, Thanos is prepared to go to any lengths to carry out his insane plan.",
+      "img": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Avengers: Endgame",
+      "genre": "Action/Sci-fi",
+      "duration": "3h 1m",
+      "description": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.",
+      "img": "https://lumiere-a.akamaihd.net/v1/images/p_avengersendgame_19751_e14a0104.jpeg?region=0%2C0%2C540%2C810"
+    },
+    {
+      "id": 4,
+      "title": "Spider-Man: No Way Home",
+      "genre": "Action/Adventure",
+      "duration": "2h 28m",
+      "description": "Peter Parker seeks Doctor Strange's help to make people forget about Spiderman's identity. However, when the spell he casts gets corrupted, several unwanted guests enter their universe.",
+      "img": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "genre": "Action/Adventure",
+      "duration": "2h 6m",
+      "description": "Dr Stephen Strange casts a forbidden spell that opens a portal to the multiverse. However, a threat emerges that may be too big for his team to handle.",
+      "img": "https://m.media-amazon.com/images/M/MV5BNWM0ZGJlMzMtZmYwMi00NzI3LTgzMzMtNjMzNjliNDRmZmFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Thor: Love and Thunder",
+      "genre": "Action/Adventure",
+      "duration": "1h 59m",
+      "description": "Thor embarks on a journey unlike anything he's ever faced -- a quest for inner peace. However, his retirement gets interrupted by Gorr the God Butcher, a galactic killer who seeks the extinction of the gods.",
+      "img": "https://cinemags.co.id/wp-content/uploads/2022/06/Thor-4-poster.jpg"
+    }
+  ]
+}
