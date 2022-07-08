@@ -15,12 +15,9 @@ function HorrorPage () {
     }, [dispatch]);
   
     return (
-        <div>
-      <Container >
-      <br />
-        <h1 className="subtitle text-white mt-4 mb-2" id="horror">HORROR MOVIES</h1>
-        <br />
-        <br />
+        
+      <Container className="py-4 " >
+        <h1 className="subtitle text-white my-4 " id="horror">HORROR MOVIES</h1>
         <Row>
         {getListHorrorMovieResult ? (
         getListHorrorMovieResult.map((movie) => {
@@ -52,7 +49,7 @@ function HorrorPage () {
         )}
           </Row>
           </Container>
-          </div>
+        
     )
 }
 

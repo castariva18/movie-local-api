@@ -5,15 +5,10 @@
 }
 
 .intro {
-    height: 500px;
+    height: 100vh;
     display: flex;
     justify-content: flex-end;
     align-items: flex-end;
-}
-
-.fixed-nav{
-    position: sticky;
-    top: 0;
 }
   
 .title {

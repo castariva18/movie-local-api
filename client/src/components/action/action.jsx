@@ -15,12 +15,9 @@ function ActionPage () {
   }, [dispatch]);
 
     return (
-        <div>
-      <Container>
-        <br />
-        <h1 className="subtitle text-white mt-4 mb-2" id="action">ACTION MOVIES</h1>
-        <br />
-        <br />
+      
+      <Container className="py-4">
+        <h1 className="subtitle text-white my-4" id="action">ACTION MOVIES</h1>
         <Row>
         {getListActionMovieResult ? (
         getListActionMovieResult.map((movie) => {
@@ -52,7 +49,6 @@ function ActionPage () {
         )}
           </Row>
           </Container>
-          </div>
     )
 }
 
