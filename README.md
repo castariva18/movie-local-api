@@ -17,6 +17,7 @@
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+   <a href="#camera-preview">Preview</a> &#xa0; | &#xa0; 
   <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
@@ -29,6 +30,10 @@
 ## :dart: About
 
 The movie is a react web application that was created to learn to use redux-hooks state management, to run this application make sure you have installed JSON Server by `npm install -g json-server` on db.json and running it by `json-server --watch db.json`
+
+## :camera: Preview
+<span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/movie-local-api/blob/master/client/src/assets/capture.gif?raw=true"></span>
+<span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/movie-local-api/blob/master/client/src/assets/mobile.gif?raw=true"></span>
 
 ## :rocket: Technologies
 
