@@ -32,7 +32,7 @@
 The movie is a react web application that was created to learn to use redux-hooks state management, to run this application make sure you have installed JSON Server by `npm install -g json-server` on db.json and running it by `json-server --watch db.json`
 
 ## :camera: Preview
-<span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/movie-local-api/blob/master/client/src/assets/capture.gif?raw=true"></span>
+<span align="center"><img width="700px" height="360px" src="https://github.com/castariva18/movie-local-api/blob/master/client/src/assets/capture.gif?raw=true"></span>
 <span align="center"><img width="180px" height="360px" src="https://github.com/castariva18/movie-local-api/blob/master/client/src/assets/mobile.gif?raw=true"></span>
 
 ## :rocket: Technologies
